@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 2ca40d9a10b195b439ab3d05b7317e5f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Building
+    100002: Building.Shape
+    100004: Camera 1
+    100006: Camera 1 1
+    100008: Camera 2
+    100010: Camera 2 1
+    100012: Camera 3
+    100014: Camera 3 1
+    100016: Camera 4
+    100018: Camera 4 1
+    100020: Camera 5
+    100022: Camera 5 1
+    100024: Camera 6
+    100026: Camera 6 1
+    100028: Camera 7
+    100030: Camera 7 1
+    100032: Display 1
+    100034: Display 1.Shape
+    100036: Display 10
+    100038: Display 10.Shape
+    100040: Display 11
+    100042: Display 11.Shape
+    100044: Display 2
+    100046: Display 2.Shape
+    100048: Display 3
+    100050: Display 3.Shape
+    100052: Display 4
+    100054: Display 4.Shape
+    100056: Display 5
+    100058: Display 5.Shape
+    100060: Display 6
+    100062: Display 6.Shape
+    100064: Display 7
+    100066: Display 7.Shape
+    100068: Display 8
+    100070: Display 8.Shape
+    100072: Display 9
+    100074: Display 9.Shape
+    100076: //RootNode
+    100078: Lights (2)
+    100080: Lights (2).Shape
+    100082: Museum
+    400000: Building
+    400002: Building.Shape
+    400004: Camera 1
+    400006: Camera 1 1
+    400008: Camera 2
+    400010: Camera 2 1
+    400012: Camera 3
+    400014: Camera 3 1
+    400016: Camera 4
+    400018: Camera 4 1
+    400020: Camera 5
+    400022: Camera 5 1
+    400024: Camera 6
+    400026: Camera 6 1
+    400028: Camera 7
+    400030: Camera 7 1
+    400032: Display 1
+    400034: Display 1.Shape
+    400036: Display 10
+    400038: Display 10.Shape
+    400040: Display 11
+    400042: Display 11.Shape
+    400044: Display 2
+    400046: Display 2.Shape
+    400048: Display 3
+    400050: Display 3.Shape
+    400052: Display 4
+    400054: Display 4.Shape
+    400056: Display 5
+    400058: Display 5.Shape
+    400060: Display 6
+    400062: Display 6.Shape
+    400064: Display 7
+    400066: Display 7.Shape
+    400068: Display 8
+    400070: Display 8.Shape
+    400072: Display 9
+    400074: Display 9.Shape
+    400076: //RootNode
+    400078: Lights (2)
+    400080: Lights (2).Shape
+    400082: Museum
+    2000000: Camera 1 1
+    2000002: Camera 2 1
+    2000004: Camera 3 1
+    2000006: Camera 4 1
+    2000008: Camera 5 1
+    2000010: Camera 6 1
+    2000012: Camera 7 1
+    2100000: museum2Tex
+    2100002: museum1Tex
+    2100004: BlackMarble
+    2100006: panelsTex
+    2100008: obeliskTex
+    2100010: Floor
+    2100012: Wall
+    2100014: Ceiling
+    2100016: displayCaseTex
+    2100018: displayWindow
+    2100020: gold_CanopicTex
+    2100022: wood_chests
+    2100024: gold_displayPieces
+    2100026: sarcophagus1
+    2100028: gold_coffin
+    2100030: wood_boatsTex
+    2100032: wood_display
+    2100034: stoneHeadTex
+    2100036: alabaster_display
+    2100038: wood_coffin
+    2100040: Black Rails
+    2100042: Black Spots
+    2100044: Spot Lights
+    2100046: Chrome
+    2300000: Building.Shape
+    2300002: Display 1.Shape
+    2300004: Display 10.Shape
+    2300006: Display 11.Shape
+    2300008: Display 2.Shape
+    2300010: Display 3.Shape
+    2300012: Display 4.Shape
+    2300014: Display 5.Shape
+    2300016: Display 6.Shape
+    2300018: Display 7.Shape
+    2300020: Display 8.Shape
+    2300022: Display 9.Shape
+    2300024: Lights (2).Shape
+    3300000: Building.Shape
+    3300002: Display 1.Shape
+    3300004: Display 10.Shape
+    3300006: Display 11.Shape
+    3300008: Display 2.Shape
+    3300010: Display 3.Shape
+    3300012: Display 4.Shape
+    3300014: Display 5.Shape
+    3300016: Display 6.Shape
+    3300018: Display 7.Shape
+    3300020: Display 8.Shape
+    3300022: Display 9.Shape
+    3300024: Lights (2).Shape
+    4300000: Building.Shape
+    4300002: Display 1.Shape
+    4300004: Display 2.Shape
+    4300006: Display 3.Shape
+    4300008: Display 4.Shape
+    4300010: Display 5.Shape
+    4300012: Display 6.Shape
+    4300014: Display 7.Shape
+    4300016: Display 8.Shape
+    4300018: Display 9.Shape
+    4300020: Display 10.Shape
+    4300022: Display 11.Shape
+    4300024: Lights (2).Shape
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
